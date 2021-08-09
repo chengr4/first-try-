@@ -1,13 +1,1 @@
-<<<<<<< HEAD
-feffaefaf
 
-
-this is from master
-=======
-123213e123213
-
-
-
-
-this is from first branch
->>>>>>> firstbranch
